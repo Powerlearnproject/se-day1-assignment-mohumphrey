@@ -5,7 +5,8 @@ Software Engineering Day1 Assignment
 #Part 1: Introduction to Software Engineering
 
 Explain what software engineering is and discuss its importance in the technology industry.
-it is a process of coming up with a software i.e systemic applicationof methods, tools and maintanance of high quality sofftware systems
+it is a process of coming up with a software i.e systemic application of methods, tools and maintanance of high quality sofftware systems.
+the main importance of software engineering is always to come up with applications that make are easy to navigate while a user finds what he/she needs answers to.
 
 Identify and describe at least three key milestones in the evolution of software engineering.
 planning
